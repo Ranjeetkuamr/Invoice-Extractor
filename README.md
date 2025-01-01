@@ -27,13 +27,9 @@ pip install -r requirements.txt
 
 ```bash
 # Finally run the following command
-python app.py
+streamlit app.py
 ```
 
-Now,
-```bash
-open up localhost:
-```
 
 
 
